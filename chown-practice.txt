@@ -1,0 +1,40 @@
+CYBERSECURITY PRACTICAL LAB
+
+Topic: Linux File Ownership and Group Management
+
+1. CHOWN (Change Owner)
+   The chown command changes the ownership of a file or directory.
+
+   Example:
+   sudo chown skanneth chown-practice.txt
+
+2. CHGRP (Change Group)
+   The chgrp command changes the group assigned to a file or directory.
+
+   Example:
+   sudo chgrp cyberteam chown-practice.txt
+
+3. GROUPADD
+   The groupadd command creates a new group.
+
+   Example:
+   sudo groupadd cyberteam
+
+4. ADDUSER
+   The adduser command creates a new Linux user account.
+
+   Example:
+   sudo adduser skanneth
+
+5. LS -L
+   The ls -l command displays detailed information about files and directories.
+
+WHAT I LEARNED:
+
+- How to change file ownership.
+- How to create a Linux user.
+- How to create a Linux group.
+- How to change a file's group.
+- How to verify ownership and permissions.
+
+Practical environment: Kali Linux

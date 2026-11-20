@@ -1,0 +1,10 @@
+MY CYBERSECURITY JOURNEY
+
+Lesson 1: Linux Basics
+
+I have learned how to:
+1. Check my current directory.
+2. Create folders.
+3. Navigate between folders.
+4. Create files.
+5. List files.
